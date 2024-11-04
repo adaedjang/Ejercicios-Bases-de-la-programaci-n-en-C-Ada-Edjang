@@ -1,16 +1,6 @@
-//
-// Created by 34601 on 04/11/2024.
-//
+#ifndef BUCLE_H
+#define BUCLE_H
 
-#ifndef BUCLES_H
-#define BUCLES_H
+#include <iostream>
 
-
-
-class bucles {
-
-};
-
-
-
-#endif //BUCLES_H
+#endif
