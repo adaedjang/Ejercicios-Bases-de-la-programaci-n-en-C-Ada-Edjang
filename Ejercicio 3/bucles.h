@@ -1,6 +1,7 @@
-#ifndef BUCLE_H
-#define BUCLE_H
+#ifndef BUCLES_H
+#define BUCLES_H
 
-#include <iostream>
+// Declaración de la función que imprime los números del 1 al 10
+void imprimirNumeros();
 
-#endif
+#endif // BUCLES_H

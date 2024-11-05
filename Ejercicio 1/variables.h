@@ -1,9 +1,8 @@
-
 #ifndef VARIABLES_H
 #define VARIABLES_H
 
-#include <iostream>
-#include <string>
+// Declaración de la función que solicitará los datos al usuario
+void pedirDatos();
 
-#endif
+#endif // VARIABLES_H
 

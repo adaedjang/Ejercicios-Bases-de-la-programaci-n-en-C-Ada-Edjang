@@ -2,7 +2,7 @@
 #include "pruebas.h"
 #include <iostream>
 
-int main() {
+void verificarEdad() {
     int edad;
 
     // Paso 2: Solicita al usuario su edad
@@ -18,5 +18,4 @@ int main() {
         std::cout << "Eres menor de edad.\n";
     }
 
-    return 0;
 }

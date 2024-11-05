@@ -1,8 +1,9 @@
-
 #ifndef PRUEBAS_H
 #define PRUEBAS_H
 
-#include <iostream>
+// Declaración de la función para verificar la edad
+void verificarEdad();
 
-#endif
+#endif // PRUEBAS_H
+
 
